@@ -1,8 +1,8 @@
 # jpa02-dshamtob
 
-Repo: https://ucsb-cs156-w21/jpa02-dshamtob
+Repo: https://github.com/ucsb-cs156-w21/jpa02-dshamtob
 
-On Heroku: https://cs156-w21-jpa02-dshamtob.herokuapp.com
+On Heroku: https://jpa02-dshamtob.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-dshamtob
 
